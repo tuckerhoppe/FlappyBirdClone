@@ -1,7 +1,7 @@
 # FlappyBirdClone
 A simple flappy bird clone built using Unity.
 
-![Gameplay GIF of Pixel Wings](https://via.placeholder.com/600x300.png?text=<-+PLACE+YOUR+GAMEPLAY+GIF+HERE)
+![Gameplay GIF of Pixel Wings](flappyBirdRecording.gif)
 
 *A classic and challenging arcade-style game built with the Unity Engine, inspired by Flappy Bird.*
 
